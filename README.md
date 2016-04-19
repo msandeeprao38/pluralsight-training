@@ -1,0 +1,1 @@
+This is a simple publish bower package training.

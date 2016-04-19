@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight-training",
+  "authors": [
+    "Sandeep Rao <msandeeprao38@gmail.com>"
+  ],
+  "description": "Publishing a Bower Package",
+  "main": "index.html",
+  "keywords": [
+    "bower",
+    "publishing"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
